@@ -4,7 +4,7 @@
 ![Screenshot 2024-06-23 145158](https://github.com/HARIVARSHINIm14/Horse_Race_Prediction/assets/121667974/59497047-c580-48e7-9f1e-fd3648b4e75e)
 ![Screenshot 2024-06-23 145148](https://github.com/HARIVARSHINIm14/Horse_Race_Prediction/assets/121667974/c6eabf1b-e6e3-41e5-80d8-4ee2bd424a0d)
 ![Screenshot 2024-06-23 145137](https://github.com/HARIVARSHINIm14/Horse_Race_Prediction/assets/121667974/654172e0-a4cd-488a-a0a0-0d231235175e)
-![Screenshot 2024-06-23 145129](https://github.com/HARIVARSHINIm14/Horse_Race_Prediction/assets/121667974/84d22d02-5027-4c85-afc8-1312038e7bef)
+
 
 
 
